@@ -1,0 +1,44 @@
+_repo: Reynard-the-fox-in-South-Africa-b-or-Hottentot-Fables-and-Tales-chiefly-translated-from-origi__73413
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bleek, W. H. I. (Wilhelm Heinrich Immanuel)
+    alias: Bleek, Wilhelm Heinrich Immanuel
+    birthdate: 1827
+    deathdate: 1875
+    gutenberg_agent_id: '57016'
+    url: http://www.gutenberg.org/2009/agents/57016
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Wilhelm_Bleek
+    - https://de.wikipedia.org/wiki/Wilhelm_Bleek_(Linguist)
+description: ''
+gutenberg_issued: '2024-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73413'
+  lccn: 09011649
+language: en
+pgterms:marc904: https://archive.org/details/reynardfoxinsout00bleeuoft/page/n6/mode/2up
+pgterms:marc905: 20200404050156bleek
+pgterms:marc906: '1864'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bTrübner and Co., $c1864.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables, African'
+- !lcsh 'Fables, Khoikhoi'
+- !lcsh 'Khoikhoi (African people) -- Folklore'
+- !lcc 'GR'
+- GITenberg
+tableOfContents: I. Jackal fables -- II. Tortoise fables -- III. Baboon fables --
+  IV. Lion fables -- V. Various fables -- VI. Sun and moon fables -- VII. Heitsi Eibip
+  and other legends -- VIII. Household tales.
+title: 'Reynard the fox in South Africa : $b or, Hottentot Fables and Tales, chiefly
+  translated from original manuscripts in the Library of His Excellency Sir George
+  Grey, K.C.B.'
+url: http://www.gutenberg.org/ebooks/73413
