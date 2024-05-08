@@ -1,5 +1,8 @@
 _repo: Reynard-the-fox-in-South-Africa-b-or-Hottentot-Fables-and-Tales-chiefly-translated-from-origi__73413
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73413-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Bleek, W. H. I. (Wilhelm Heinrich Immanuel)
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Wilhelm_Bleek
     - https://de.wikipedia.org/wiki/Wilhelm_Bleek_(Linguist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73413#Reynard-the-fox-in-South-Africa-b-or-Hottentot-Fables-and-Tales-chiefly-translated-from-origi_
 gutenberg_issued: '2024-04-17'
 gutenberg_type: Text
 identifiers:
